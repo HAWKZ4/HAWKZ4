@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018, but leveling up my debugging skills every day!<br>📚 I'm currently learning TypeScript and Docker to supercharge my MERN stack projects.<br>🎯 Goals: Join a dynamic team, contribute my skills, and take my projects to the next level!<br>🎲 Fun fact:  My coffee-to-code ratio is dangerously high ☕️💻</p>
+<p align="left">✨ Creating bugs since 2018, but leveling up my debugging skills every day!<br>📚 I'm currently sharpening my NestJS expertise and expanding into AWS for production-grade deployments.<br>🎯 Goals: Join a dynamic team, contribute my skills, and take my projects to the next level!<br>🎲 Fun fact:  My coffee-to-code ratio is dangerously high ☕️💻</p>
 
 ###
 
