@@ -1,85 +1,98 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋 I'm Mohammed</h1>
 
-###
+<p align="left">
+Full-Stack Software Engineer specializing in building scalable web applications with 
+React, Next.js, TypeScript, and NestJS.
+</p>
 
-<p align="left">I am a full stack web developer</p>
+---
 
-###
+<h2>🚀 About Me</h2>
 
-<h2 align="left">About me</h2>
+<ul>
+  <li>💻 4+ years building production-grade web applications</li>
+  <li>⚡ Strong in backend architecture, APIs, and system design</li>
+  <li>🌐 Experienced with Next.js App Router and modern frontend patterns</li>
+  <li>☁️ Working with Docker, AWS, and CI/CD pipelines</li>
+  <li>🎯 Focused on performance optimization and scalable systems</li>
+</ul>
 
-###
+<p>
+🚀 <strong>Focus Areas:</strong><br/>
+- Scalable full-stack architecture<br/>
+- Next.js performance optimization<br/>
+- API design & backend systems
+</p>
 
-<p align="left">✨ Creating bugs since 2018, but leveling up my debugging skills every day!<br>📚 I'm currently sharpening my NestJS expertise and expanding into AWS for production-grade deployments.<br>🎯 Goals: Join a dynamic team, contribute my skills, and take my projects to the next level!<br>🎲 Fun fact:  My coffee-to-code ratio is dangerously high ☕️💻</p>
+---
 
-###
+<h2>🔥 Featured Projects</h2>
 
-<h2 align="left">I code with</h2>
+<h3>🛍️ E-Commerce Product Dashboard</h3>
+<p>
+Next.js App Router · TypeScript · TanStack Query · Tailwind CSS · Jest
+</p>
 
-###
+<ul>
+  <li>Modern product dashboard with real API integration</li>
+  <li>Pagination, debounced search, filtering, sorting</li>
+  <li>Optimized with caching & background data fetching</li>
+  <li>Smooth UX with skeleton loading & no-flicker updates</li>
+</ul>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-</div>
+<p>
+👉 <a href="https://product-dashboard1.netlify.app/">Live Demo</a><br/>
+👉 <a href="https://github.com/HAWKZ4/ecommerce-product-dashboard">GitHub Repo</a><br/>
+⚠️ Initial load may take a few seconds due to free-tier hosting.
+</p>
 
-###
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HAWKZ4&label=Profile%20views&color=0e75b6&style=flat" alt="HAWKZ4" /> </p>
+<h3>🧠 SkillVerify — Recruitment Platform <em>(In Progress)</em></h3>
+<p>
+React · NestJS · PostgreSQL
+</p>
+
+<ul>
+  <li>Full-stack platform for technical candidate evaluation</li>
+  <li>Role-based access control & analytics dashboards</li>
+  <li>AI-based CV parsing and skill extraction</li>
+</ul>
+
+---
+
+<h3>🛒 Full-Stack E-Commerce Platform (MyStore)</h3>
+<p>
+Node.js · Express · MongoDB · React · Redux · Tailwind CSS
+</p>
+
+<ul>
+  <li>Complete e-commerce system with authentication, orders, and admin dashboard</li>
+  <li>JWT authentication & role-based access control</li>
+  <li>Cart, wishlist, checkout, and payment integration (PayPal)</li>
+  <li>Backend security: rate limiting, XSS protection, input sanitization</li>
+</ul>
+
+<p>
+👉 <a href="https://my-store-3woq.onrender.com/">Live Demo</a><br/>
+⚠️ Initial load may take a few seconds due to free-tier hosting.
+</p>
+
+---
+
+<h2>🛠 Tech Stack</h2>
+
+<p>
+<strong>Frontend:</strong> React, Next.js, TypeScript, Tailwind CSS<br/>
+<strong>Backend:</strong> NestJS, Node.js, Express<br/>
+<strong>Databases:</strong> PostgreSQL, MongoDB, MySQL<br/>
+<strong>Tools:</strong> Docker, GitHub Actions, AWS
+</p>
+
+---
+
+<h2>📫 Contact</h2>
+
+<p>
+Email: mohammed.m.alsaadi3@gmail.com
+</p>
