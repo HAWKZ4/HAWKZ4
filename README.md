@@ -5,7 +5,6 @@ Full-Stack Software Engineer specializing in building scalable web applications 
 React, Next.js, TypeScript, and NestJS.
 </p>
 
----
 
 <h2>🚀 About Me</h2>
 
@@ -24,7 +23,6 @@ React, Next.js, TypeScript, and NestJS.
 - API design & backend systems
 </p>
 
----
 
 <h2>🔥 Featured Projects</h2>
 
@@ -46,7 +44,6 @@ Next.js App Router · TypeScript · TanStack Query · Tailwind CSS · Jest
 ⚠️ Initial load may take a few seconds due to free-tier hosting.
 </p>
 
----
 
 <h3>🧠 SkillVerify — Recruitment Platform <em>(In Progress)</em></h3>
 <p>
@@ -59,7 +56,6 @@ React · NestJS · PostgreSQL
   <li>AI-based CV parsing and skill extraction</li>
 </ul>
 
----
 
 <h3>🛒 Full-Stack E-Commerce Platform (MyStore)</h3>
 <p>
@@ -78,7 +74,6 @@ Node.js · Express · MongoDB · React · Redux · Tailwind CSS
 ⚠️ Initial load may take a few seconds due to free-tier hosting.
 </p>
 
----
 
 <h2>🛠 Tech Stack</h2>
 
@@ -89,7 +84,6 @@ Node.js · Express · MongoDB · React · Redux · Tailwind CSS
 <strong>Tools:</strong> Docker, GitHub Actions, AWS
 </p>
 
----
 
 <h2>📫 Contact</h2>
 
